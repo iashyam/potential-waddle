@@ -1,5 +1,6 @@
 ---
+title: Writings
 layout: archives
-icon: fas fa-archive
+icon: fas fa-pen
 order: 3
 ---
